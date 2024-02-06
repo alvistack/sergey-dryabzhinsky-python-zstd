@@ -1,0 +1,5 @@
+python-zstd (100:1.5.6.2-1) UNRELEASED; urgency=medium
+
+  * https://github.com/sergey-dryabzhinsky/python-zstd/releases/tag/v1.5.6.2
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Tue, 21 Jan 2025 11:52:01 +0800
