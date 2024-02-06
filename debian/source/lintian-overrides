@@ -1,0 +1,5 @@
+python-zstd source: file-without-copyright-information
+python-zstd source: no-debian-changes
+python-zstd source: source-contains-prebuilt-windows-binary
+python-zstd source: source-is-missing
+python-zstd source: source-package-encodes-python-version
